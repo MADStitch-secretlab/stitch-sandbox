@@ -1,1 +1,1 @@
-# stitch0-sandbox
+# stitch-sandbox
